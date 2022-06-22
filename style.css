@@ -1,7 +1,11 @@
 h6{float: right;
     margin-right: 20px;}
   h3 {text-align: center;}
-  h2 {text-align: center;}
+  h4{font-family: 'Space Mono', monospace;;
+  color: rgba(55, 89, 134, 0.986);
+}
+
+  h2 {text-align: center; color: red;}
   h1 {color: orange; font-size: 20px;}
   #infobox {
     background-color: rgba(55, 89, 134, 0.986);
@@ -20,3 +24,4 @@ h6{float: right;
 #Sup-Polo{background-color: rgba(213, 241, 241, 0.918);}
 #Tabelle{background-color: rgba(213, 241, 241, 0.918);}
 #Button{background-color: rgba(213, 241, 241, 0.918);}
+#blau{color: rgba(55, 89, 134, 0.986);}
