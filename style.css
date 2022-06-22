@@ -19,9 +19,8 @@ h6{float: right;
       padding-bottom: 25px;
       padding-top: 25px;
       padding-left: 50px;}
-.bilderabrunden{
-  border-radius: 10px;
-}
+#bilderabrunden {
+  border-radius: -10px;}
 #Sup-Polo{background-color: rgba(213, 241, 241, 0.918);}
 #Tabelle{background-color: rgba(213, 241, 241, 0.918);}
 #Button{background-color: rgba(213, 241, 241, 0.918);}
