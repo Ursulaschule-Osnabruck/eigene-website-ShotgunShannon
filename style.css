@@ -19,11 +19,12 @@ h6{float: right;
       padding-bottom: 25px;
       padding-top: 25px;
       padding-left: 50px;}
-#bilderabrunden {
-  border-radius: -10px;}
+
 #Sup-Polo{background-color: rgba(213, 241, 241, 0.918);}
-#Tabelle{background-color: rgba(213, 241, 241, 0.918);}
+.Tabelle{table-layout: auto;
+background-color: red;}
 #Button{background-color: rgba(213, 241, 241, 0.918);}
 #blau{color: rgba(55, 89, 134, 0.986);}
 #grau{background-color: rgba(243, 233, 233, 0.856)
 ;}
+th, td{padding: 12px;}
