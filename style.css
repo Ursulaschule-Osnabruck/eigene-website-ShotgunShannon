@@ -31,7 +31,20 @@ th, td{padding: 12px;}
 
 
 
+.europe {
+  margin-top: -2.5rem;
+  padding: 0;
+  line-height: 1rem;
 
+}
+
+.europe span {
+  
+  padding: 0.5rem;
+  
+  background-color: white;
+  font-size: 14px;
+}
 
 
 
